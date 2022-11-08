@@ -16,7 +16,7 @@ def get_config():
     parser.add_argument("--num_landmarks", type=int, 
                         default=3)
     parser.add_argument('--num_agents', type=int, 
-                        default=6, help="number of players")
+                        default=3, help="number of players")
     parser.add_argument("--use_single_network", action='store_true', 
                         default=False)
     parser.add_argument("--experiment_name", type=str, 
