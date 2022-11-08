@@ -1,11 +1,3 @@
-"""
-# @Time    : 2021/7/1 8:44 上午
-# @Author  : hezhiqiang01
-# @Email   : hezhiqiang01@baidu.com
-# @File    : env_wrappers.py
-Modified from OpenAI Baselines code to work with multi-agent envs
-"""
-
 import numpy as np
 import gym
 from gym import spaces
