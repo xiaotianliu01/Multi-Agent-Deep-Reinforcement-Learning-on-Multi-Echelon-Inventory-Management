@@ -1,8 +1,8 @@
 import numpy as np
 import gym
 from gym import spaces
-#from envs.serial import Env
-from envs.net_2x3 import Env
+from envs.serial import Env
+#from envs.net_2x3 import Env
 
 
 class MultiDiscrete(gym.Space):
