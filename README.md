@@ -9,7 +9,7 @@ pip install -r requirements.txt
 
 
 ## How To Run
-When your environment is ready, you can start the training by running
+When your environment is ready, you can start the training with
 ``` Bash
 python train_env.py
 ```
